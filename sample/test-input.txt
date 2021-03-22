@@ -1,0 +1,9 @@
+# REMOVE THIS INSTRUCTION BEFORE USING THIS FILE!
+#
+# In order to avoid errors please make sure that:
+# - every line corresponds to the sample input of test data for solution
+# - number of lines in this file shall correspond to number of lines in test-expected.txt file
+# - every new line is one test data entry
+# - every test data entry (line) shall represent a tuple. e.g. every line is (1, 2, [3.5, 6.4], 'str', None)
+# - on Codility platform the number of test entries is limited to 10 lines
+# - custom data types are not accepted

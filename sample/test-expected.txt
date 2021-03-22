@@ -1,0 +1,7 @@
+# REMOVE THIS INSTRUCTION BEFORE USING THIS FILE!
+#
+# In order to avoid errors please make sure that:
+# - every line corresponds to the expected result for test data given in test-input.txt file
+# - number of lines in this file shall correspond to number of lines in test-input.txt file
+# - match data format. Example: write 3 for int, "for string", [1, 3, 5] - for list of integers, etc
+# - on Codility platform the number of test entries is limited to 10 lines.
