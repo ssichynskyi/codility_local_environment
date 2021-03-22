@@ -1,1 +1,1 @@
-# codility_local_environment
+# This repo helps to setup local codility environment for Python
