@@ -1,0 +1,1 @@
+# codility_local_environment
