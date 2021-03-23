@@ -17,6 +17,7 @@ Codility platform. (If you have e.g. 3.8 and on Codility it's only 3.6
 - clone this repo
 - configure IDE for this project (including proper python interpreter)
 - you may also wish to copy-paste and re-name the "sample" folder in advance
+- look at example which demonstrates fully working solution from this platform and try to run it.
 ## During online coding
 - copy-paste and re-name the "sample" folder (if not done yet)
 - copy content of the task python file into solution.py
