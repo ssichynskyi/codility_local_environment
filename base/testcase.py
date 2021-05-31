@@ -3,7 +3,10 @@ from ast import literal_eval as parse
 
 
 class CodilityTestCase(TestCase):
+    """This is a base class for your tests. Derive your test cases from it."""
+
     def extract_test_data(self, test_input_file, exp_res_file):
+        """Reads test input and expected results data from standard text files."""
         with open(test_input_file) as test_data_file:
             self.test_data = [parse(data_str) for data_str in test_data_file.readlines()]
 
